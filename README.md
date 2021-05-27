@@ -68,6 +68,7 @@ Side note x2: I don't think my team mates are going to add to this anymore but I
 |[Matryoshka doll](./Forensics/Matryoshka%20doll/Matryoshka%20doll.html)|30|
 |[tunn3l v1s10n](./Forensics/tunn3l%20v1s10n/tunn3l%20v1s10n.html)|40|
 |[Wireshark doo dooo do doo...](./Forensics/Wireshark%20doo%20dooo%20do%20doo/Wireshark%20doo%20dooo%20do%20doo.html)|50|
+|[MacroHard WeakEdge](./Forensics/MacroHard%20WeakEdge/MacroHard%20WeakEdge.html)|60|
 |[Trivial Flag Transfer Protocol](./Forensics/Trivial%20Flag%20Transfer%20Protocol/Trivial%20Flag%20Transfer%20Protocol.html)|90|
 |[Disk, disk, sleuth!](./Forensics/Disk%2C%20disk%2C%20sleuth!/Disk%2C%20disk%2C%20sleuth!.html)|110|
 |[Milkslap](./Forensics/Milkslap/Milkslap.html)|120|
